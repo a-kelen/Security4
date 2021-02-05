@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Security\Security4\bin\Debug\Security4.exe.config
+C:\Users\Admin\source\repos\Security\Security4\bin\Debug\Security4.exe
+C:\Users\Admin\source\repos\Security\Security4\bin\Debug\Security4.pdb
+C:\Users\Admin\source\repos\Security\Security4\obj\Debug\Security4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Security\Security4\obj\Debug\Security4.Form1.resources
+C:\Users\Admin\source\repos\Security\Security4\obj\Debug\Security4.Properties.Resources.resources
+C:\Users\Admin\source\repos\Security\Security4\obj\Debug\Security4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Security\Security4\obj\Debug\Security4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Security\Security4\obj\Debug\Security4.exe
+C:\Users\Admin\source\repos\Security\Security4\obj\Debug\Security4.pdb
